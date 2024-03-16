@@ -1,5 +1,7 @@
+*{
+    background-color: rgb(255, 255, 255);
+}
 .contanier{
-    background-color: aqua;
     align-self: center;
     text-align: center;
     padding-top: 5vh;
@@ -9,4 +11,22 @@
     height: auto;
     width: 50px;
     margin: 10px;
+}
+table{
+    border: 1px;
+}
+.calculator,.display ,.controls{
+    padding: 30px;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: rgb(255, 255, 255);
+}
+.display
+{
+    border: 20PX solid #5e5a5a;
+    
+}
+.controls{
+    border: 20PX solid #5e5a5a;
+
 }

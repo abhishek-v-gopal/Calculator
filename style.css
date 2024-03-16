@@ -1,0 +1,12 @@
+.contanier{
+    background-color: aqua;
+    align-self: center;
+    text-align: center;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+.btn{
+    height: auto;
+    width: 50px;
+    margin: 10px;
+}

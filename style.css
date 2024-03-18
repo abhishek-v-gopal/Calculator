@@ -21,6 +21,14 @@ table{
     margin-right: 20%;
     background-color: rgb(255, 255, 255);
 }
+@media only screen and (max-width: 600px) {
+    .calculator,.display ,.controls{
+        padding: 30px;
+        /* margin-left: 20%; */
+        /* margin-right: 20%; */
+        background-color: rgb(255, 255, 255);
+    }
+    }
 .display
 {
     border: 20PX solid #5e5a5a;
